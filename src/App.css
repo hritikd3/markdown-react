@@ -199,3 +199,19 @@ pre {
   color: yellow;
   margin-bottom: 1.5rem;
 }
+
+
+.footer{
+  color: #191010;
+  text-align: center;
+  font-weight: 600;
+  font-size: 1.4rem;
+}
+span{
+                       color : white;
+  background: #6d6dc8;
+  padding: 5px;
+  margin: 3px;
+  border-radius: 8px;
+  cursor: pointer;
+}

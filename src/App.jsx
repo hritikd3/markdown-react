@@ -21,7 +21,12 @@ function App() {
         </article>
       
       </section>
+    <section className="footer"> build with 💜 by 
+      <span onClick={()=> alert('ʕ•́ᴥ•̀ʔ Hritik is currently Smashing his keyboard until something good happens... 😄')}>Hritik </span></section>
     </main>
+    
+ 
+    
   )
 }
 
