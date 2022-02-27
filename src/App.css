@@ -96,6 +96,9 @@ p {
   margin-bottom: 1.25rem;
   color: var(--clr-grey-3);
 }
+.cheat-sheet{
+  padding: 2rem;
+}
 @media screen and (min-width: 800px) {
   h1 {
     font-size: 3rem;
@@ -143,9 +146,12 @@ Markdown
   padding: 4rem;
   display: grid;
   row-gap: 4rem;
+ 
 }
+
 a{
   color: green;
+ 
 }
 .input {
   border-color: transparent;
