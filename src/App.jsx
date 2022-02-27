@@ -15,6 +15,10 @@ function App() {
         <article className='result'>
           <ReactMarkdown>{markdown}</ReactMarkdown>
         </article>
+        <main className="markdown"> 
+<h3> Click here for <a href="https://www.markdownguide.org/cheat-sheet" target="_blank"> cheat sheet</a>
+</h3>
+        </main>
       </section>
     </main>
   )
